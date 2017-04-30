@@ -44,7 +44,7 @@ png("instructions_fig/hist_missing_NAs1.png",width=580,height=580,units="px")
 hist(sumTable$Steps, breaks=5, xlab="Steps", col="blue", main = "Total Steps Per Day Without Missing Data")
 ```
 
-![Histogram with missing data](https://github.com/ennismDiplo/RepData_PeerAssessment1/tree/master/instructions_fig/hist_missing_NAs1.png?raw=true)
+![Histogram with missing data](instructions_fig/hist_missing_NAs1.png)
 
 
 Calculate and report the mean and median of the total number of steps taken per day
